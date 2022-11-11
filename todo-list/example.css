@@ -1,0 +1,31 @@
+@font-face{
+    font-family: "custom";
+    src: url("./Poppins/Poppins-Black.ttf")
+}
+
+* {
+    font-family: custom;
+}
+
+
+.header{
+    color: blue;
+}
+
+#testid{
+    color: red;
+}
+
+p > span{
+    color: blue;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+div {
+    background-color: yellowgreen;
+    font-size: larger;
+    border-color: red;
+    border-radius: 30%;
+    border:20px;
+}
