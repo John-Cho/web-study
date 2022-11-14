@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&family=Rubik+Bubbles&display=swap');
+
+body{
+    background-color: gray;
+}
+
+.div-Head{
+    background-color: black;
+    color: white;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+
+.div-contents{
+    background-color: beige;
+    color: blue;
+    text-align: center;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.div-style{
+    text-align: center;
+    border: 3px solid#FFFFFF;
+}
+
+#div-list{
+    background-color: pink;
+    border: 10px solid hotpink;
+    border-radius: 3%;
+    font-family: 'Rubik Bubbles', cursive;
+}
+
+.img-src{
+    width: 200px;
+    height: auto;
+}
+
+#div-control{
+    background-color: blue;
+}
