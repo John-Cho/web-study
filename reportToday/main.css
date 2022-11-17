@@ -1,0 +1,21 @@
+*{
+    font-family: 'Jua', sans-serif;
+}
+
+.contents{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    
+}
+
+.alert{
+    display: inline-block;
+    width: 500px;
+}
+
+.report-text{
+    margin-top: 5px;
+    font-size: small;
+}
