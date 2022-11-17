@@ -1,0 +1,30 @@
+div{
+    display: grid;
+    text-align: center;
+    width: 200px;
+}
+
+#custom-1{
+    font-weight: bolder;
+    color: hotpink;
+    font-family: 'Jua', sans-serif;
+}
+
+button{
+    margin-right: 5px;
+}
+
+.common-btn{
+    width: 100px;
+    height: 100px;
+}
+
+.custom-btn {
+    color: white;
+    background-color: navy;
+    border-radius: 10px;
+    padding: 10px 25px;
+    font-family: 'Jua', sans-serif;
+    font-weight: bolder;
+    cursor: pointer;
+}
