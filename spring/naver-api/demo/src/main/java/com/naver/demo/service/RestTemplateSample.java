@@ -32,11 +32,6 @@ public class RestTemplateSample {
         
             RestTemplate rTemplate = new RestTemplate();
             ResponseEntity<String> resp = rTemplate.exchange(requestEntity, String.class);
-
-            resp.get
-
-            log.info("Status Code {}, ", resp.getStatusCode().value());
-
             return resp.getBody();
     }
 }
